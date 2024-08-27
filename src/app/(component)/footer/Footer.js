@@ -10,10 +10,6 @@ const Footer = () => {
     <a href="#home"><i class='bx bx-up-arrow-alt'></i></a>
 </footer>
 
-<script src="mixitup.min.js"></script>
-<script src="index.js">
-  
-</script>
       
     </div>
   )
