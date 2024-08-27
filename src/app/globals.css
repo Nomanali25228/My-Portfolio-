@@ -1028,12 +1028,26 @@ footer a i {
     footer p{
         font-size: .8rem;
        }
+       .img-box img {
+        width: 330px;
+        max-width: 430px;
+        height: auto;
+    }
 }
 
 @media (max-width:420px){
    html{
    font-size: 80%; 
    }
+   .home-content p {
+    font-size: 10px;
+}
+.img-box img {
+    width: 300px;
+    max-width: 430px;
+    height: auto;
+}
+
    footer p{
     font-size: .6rem;
    }
@@ -1041,7 +1055,7 @@ footer a i {
     font-size: .8rem;
    }
    .img-about img{
-    width: 400px;
+    width: 300px;
    }
    .info-about1,.info-about2,.info-about3{
     display: none;
@@ -1049,4 +1063,11 @@ footer a i {
    .img-about{
     font-size: 1rem;
    }
+   .about-content p {
+    color: #fdfdfd;
+    font-weight: 200;
+    margin-bottom: 1.5rem;
+    font-size: 10px;
+}
+
 }
