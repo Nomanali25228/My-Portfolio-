@@ -10,11 +10,6 @@ const Footer = () => {
     <a href="#home"><i class='bx bx-up-arrow-alt'></i></a>
 </footer>
 
-<<<<<<< HEAD
-
-=======
->>>>>>> origin/master
-      
     </div>
   )
 }
