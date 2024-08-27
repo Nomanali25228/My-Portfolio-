@@ -50,9 +50,9 @@ function Home() {
     return (
         <section id="home" className="home">
             <div className="home-content">
-                <h1>Hi! I'm Noman</h1>
+                <h1>Hi! I{`'`}m Noman</h1>
                 <div className="change-text">
-                    <h3>and I'm</h3>
+                    <h3>and I{`'`}m</h3>
                     <h3>
                         <span className="word">Web&nbsp;Developer</span>
                         <span className="word">Frontend&nbsp;Developer</span>
