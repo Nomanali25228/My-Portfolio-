@@ -81,9 +81,9 @@ function Home() {
                 </div>
                 <div className="btn-box">
                     <figure style={{ display: 'none' }}>
-                        <Image src="/images--main/Capture.PNG" alt="capture-solve-now"  width={800}  height={600} />
+                        <Image src="/images--main/capture.jpg" alt="capture.jpg"  width={800}  height={600} />
                     </figure>
-                    <a href="/images--main/Capture.PNG" download="capture-solve-now.jpg" className="btn">
+                    <a href="/images--main/capture.jpg" download="capture.jpg" className="btn">
                         Download CV
                     </a>
                     <a href="" className="btn">Hire Me Now</a>
