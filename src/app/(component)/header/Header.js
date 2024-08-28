@@ -89,10 +89,10 @@ function Home() {
                     <a href="" className="btn">Hire Me Now</a>
                 </div>
                 <div className="social-icons">
-                    <a href="#"><i className='bx bxl-facebook'></i></a>
-                    <a href="#"><i className='bx bxl-instagram'></i></a>
-                    <a href="#"><i className='bx bxl-github'></i></a>
-                    <a href="#"><i className='bx bxl-upwork'></i></a>
+                    <a href="https://www.facebook.com/" target="_blank"><i className='bx bxl-facebook'></i></a>
+                    <a href="https://www.instagram.com/" target="_blank"><i className='bx bxl-instagram'></i></a>
+                    <a href="https://github.com/Nomanali25228" target="_blank"><i className='bx bxl-github'></i></a>
+                    <a href="https://www.fiverr.com/users/nomi_blogger12/seller_dashboard" target="_blank"><i className='bx bxl-upwork'></i></a>
                 </div>
             </div>
             <div className="home-image">
